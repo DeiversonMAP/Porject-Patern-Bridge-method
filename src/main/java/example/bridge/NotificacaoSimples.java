@@ -1,4 +1,4 @@
-package org.example.bridge;
+package example.bridge;
 
 public class NotificacaoSimples extends Notificacao {
 

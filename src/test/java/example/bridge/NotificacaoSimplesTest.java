@@ -1,4 +1,4 @@
-package org.example.bridge;
+package example.bridge;
 
 import org.junit.jupiter.api.Test;
 

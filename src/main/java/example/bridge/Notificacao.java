@@ -1,4 +1,4 @@
-package org.example.bridge;
+package example.bridge;
 
 public abstract class Notificacao {
 
